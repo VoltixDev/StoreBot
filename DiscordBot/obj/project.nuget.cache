@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zG4JJtPnwM8=",
+  "dgSpecHash": "tnS8ksBoN9c=",
   "success": true,
   "projectFilePath": "D:\\Projects\\Testing\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "D:\\.nuget\\packages\\discord.net.rest\\3.16.0\\discord.net.rest.3.16.0.nupkg.sha512",
     "D:\\.nuget\\packages\\discord.net.webhook\\3.16.0\\discord.net.webhook.3.16.0.nupkg.sha512",
     "D:\\.nuget\\packages\\discord.net.websocket\\3.16.0\\discord.net.websocket.3.16.0.nupkg.sha512",
+    "D:\\.nuget\\packages\\jetbrains.annotations\\2024.3.0\\jetbrains.annotations.2024.3.0.nupkg.sha512",
     "D:\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "D:\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "D:\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

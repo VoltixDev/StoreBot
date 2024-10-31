@@ -5,6 +5,13 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Production"
+      }
+    },
+    "DiscordBot:Dev": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"
       }
     }

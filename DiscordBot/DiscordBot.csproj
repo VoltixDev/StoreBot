@@ -9,6 +9,7 @@
 
     <ItemGroup>
         <PackageReference Include="Discord.Net" Version="3.16.0" />
+        <PackageReference Include="JetBrains.Annotations" Version="2024.3.0" />
         <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1"/>
         <PackageReference Include="Serilog" Version="4.1.0" />
         <PackageReference Include="Serilog.Exceptions" Version="8.4.0" />
